@@ -3,6 +3,11 @@ transportation company system, it is required project of Javascript 102 course p
 
 # Goal
   For Learning
+ 
+# How to run the project 
+    1. run "npm install"
+    2. write "node main" in the terminal
+
   
 # what is the the idea ?
     Classes Tree:
@@ -24,6 +29,4 @@ transportation company system, it is required project of Javascript 102 course p
 # Level of the small project ?
 Intermediate 
 
-# How to run the project 
-1. run "npm install"
-2. write "node main" in the terminal
+
